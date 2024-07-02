@@ -1,0 +1,6 @@
+printWidth = 80
+useTabs = true
+singleQuote = false
+bracketSpacing = true
+bracketSameLine = true
+endOfLine = "lf"
